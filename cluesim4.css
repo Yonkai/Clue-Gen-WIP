@@ -1,0 +1,90 @@
+body {
+	background-color:#86F0FF;
+}
+#clue{
+	
+	
+}
+#rewardsGenerator{
+
+	transform:scaleX(-1);
+
+}
+
+#vannaka{
+	transform:scaleX(-1);
+}
+
+#logo{
+	top:125px;
+
+ }
+ 
+ #logorelative{
+	 position:relative;
+	 
+ }
+ 
+#clueDiv{
+	position: absolute;
+	top:60px;
+	left:530px;
+	
+}
+
+#generatorDiv{
+	position:absolute;
+	left:1000px;
+	top:50px;
+	
+}
+
+#vannakaDiv{
+	position:absolute;
+	top:335px;
+
+}
+
+
+#axe1{
+	position:absolute;
+	left:650px;
+	bottom:300px:
+	
+}
+
+#easyDiv{
+	position:absolute;
+	top:400px;
+	left:500px;
+	
+}
+
+#mediumDiv{
+	position:absolute;
+	top:400px;
+	left:600px;
+
+	
+}
+
+#hardDiv{
+	position:absolute;
+	top:400px;
+	left:700px;
+
+	
+}
+
+#eliteDiv{
+	position:absolute;
+	top:400px;
+	left:800px;
+
+
+}
+/* Try to position all this shit using DIVs instead it's better I think */ 
+/* Change the pixel to positioning to a better relative unit so that it scales better on different screens
+although I think pixels are relative gotta test this. */
+
+/* stuff on organizing CSS ?? */

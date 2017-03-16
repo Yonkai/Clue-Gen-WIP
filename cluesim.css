@@ -1,0 +1,61 @@
+body {
+	background-color:#86F0FF;
+}
+#clue{
+	
+	
+}
+#rewardsGenerator{
+
+	transform:scaleX(-1);
+
+}
+
+#vannaka{
+	transform:scaleX(-1);
+}
+
+#logo{
+	margin-top:125px;
+
+ }
+ 
+ #logorelative{
+	 position:relative;
+	 
+ }
+ 
+#clueDiv{
+	position: absolute;
+	top:60px;
+	left:530px;
+	
+}
+
+#generatorDiv{
+	position:absolute;
+	left:1000px;
+	top:50px;
+	
+}
+
+#vannakaDiv{
+	position:absolute;
+	top:335px;
+}
+
+#unlitButtonsDiv{
+	position:absolute;
+	left:360px;
+	top:430px;
+	z-index:-30;
+}
+
+#litGreenDiv{
+	position:absolute;
+	left:384px;
+	top:422px;
+	visibility:visible;
+}
+
+/* Try to position all this shit using DIVs instead it's better I think */ 

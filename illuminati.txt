@@ -1,0 +1,21 @@
+
+
+
+<div id="illuminati"><img id ="litGreen" onmouseover="ThisFunction()" src="litbutton.png" alt=""/></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<script>
+function ThisFunction(){
+var x =document.getElementById("litGreen");
+x.src = "yellow chest.png";
+}
+</script>

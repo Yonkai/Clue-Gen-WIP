@@ -1,0 +1,21 @@
+find a better editor to save older copies and stuff
+
+find the odds for the clue rewards
+simulate those odds in javascript
+display those odds by rewriting over img attributes in fixed divs
+	how to access folders
+	do this for easy-master
+	Use objects for storing values somehow
+	cluescrolls.easy.reward,cluescrolls.medium.table1.reward, something like this maybe??
+have a click event on the button that changes the click event for the chest
+	be aware  of collisions
+	learn about different events too see what u can do
+add more background secrets and secrets in general
+	
+add a counter for each clue type
+	have it reset at first
+
+
+
+
+make A list of key terms
